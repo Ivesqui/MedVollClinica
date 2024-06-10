@@ -1,4 +1,4 @@
-# proyecto-apirest-alura
+# Proyecto de API Rest Screenmatch
 Entregable de curso de desarrollo de API Rest en Java 17 y Spring Boot 3
 
 ## Objetivos:
