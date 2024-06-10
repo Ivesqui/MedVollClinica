@@ -1,11 +1,11 @@
 # proyecto-apirest-alura
 Entregable de curso de desarrollo de API Rest en Java 17 y Spring Boot 3
 
-##Objetivos:
--Creación de una API Rest
--Desarrollo de un CRUD (Create, Read, Uptade, Delete)
--Validadiones
--Paginación y orden
+## Objetivos:
+1. Creación de una API Rest
+2. Desarrollo de un CRUD (Create, Read, Uptade, Delete)
+3. Validadiones
+4. Paginación y orden
 
 ## Tecnologías utilizadas.
 
