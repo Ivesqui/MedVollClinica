@@ -1,4 +1,4 @@
-# Proyecto de API Rest Screenmatch
+# Proyecto de API Rest Clínica médica:
 Entregable de curso de desarrollo de API Rest en Java 17 y Spring Boot 3
 
 ## Objetivos:
@@ -7,7 +7,7 @@ Entregable de curso de desarrollo de API Rest en Java 17 y Spring Boot 3
 3. Validadiones
 4. Paginación y orden
 
-## Tecnologías utilizadas.
+## Tecnologías utilizadas:
 
 
 
