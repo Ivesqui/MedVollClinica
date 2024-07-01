@@ -1,25 +1,34 @@
-# Proyecto de API Rest Clínica médica:
-Entregable de curso de desarrollo de API Rest en Java 17 y Spring Boot 3
+# <h1>documente-teste-y-prepare-api-para-deploy</h1>
 
-## Objetivos:
-1. Creación de una API Rest
-2. Desarrollo de un CRUD (Create, Read, Uptade, Delete)
-3. Validaciones
-4. Paginación y orden
-5. Seguridad
+proyecto: <h2>spring-boot-3</h2>
 
-## Tecnologías utilizadas:
+ curso online de Spring Boot 3, este curso es ideal para publico interesado en desarrollar API´s basadas en un framework de inversion de control para plataforma en JAVA 
+ permitiendo agilizar el desarrollo y focar en las reglas de negocio del proyecto
+
+<ol>
+  <li>Aprenda a aislar código de reglas de negocio en una aplicación</li>
+  <li>Implemente princípios SOLID</li>
+  <li>Documente una API seguindo el protocolo OpenAPI</li>
+  <li>Aprenda a escribir pruebas automatizadas en una aplicación con Spring Boot</li>
+  <li>Realize el build de una aplicação con Spring Boot</li>
+  <li>Use variables de entorno/ambiente y prepare una aplicación para su implementación/deploy</li>
+</ol>
+
+links
+
+1) dependencias<br>
+<a>https://www.postman.com/</a><br>
+<a>https://spring.io/projects/spring-boot</a><br>
+<a>https://www.aluracursos.com/</a><br>
 
 
 
+2) ide<br>
+<a href="https://www.jetbrains.com/idea/promo/?msclkid=c934a6edeb2510614d26c2af04a86b25&utm_source=bing&utm_medium=cpc&utm_campaign=AMER_en_BR_IDEA_Branded&utm_term=intellij&utm_content=intellij%20idea">Descarga Intellij</a>
+<br>
 
-<div align="center">
-	<code><a href="https://www.oracle.com/java/" target="_blank"><img width="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/></a></code>
-	<code><a href="https://start.spring.io/" target="_blank"><img width="50" src="https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png" alt="Spring" title="Spring"/></a></code>
-	<code><a href="https://maven.apache.org/guides/" target="_blank"><img width="50" src="https://user-images.githubusercontent.com/25181517/117207242-07d5a700-adf4-11eb-975e-be04e62b984b.png" alt="Maven" title="Maven"/></a></code>
-	<code><a href="https://hibernate.org/" target="_blank"><img width="50" src="https://user-images.githubusercontent.com/25181517/117207493-49665200-adf4-11eb-808e-a9c0fcc2a0a0.png" alt="Hibernate" title="Hibernate"/></a></code>
-	<code><a href="https://projectlombok.org/" target="_blank"><img width="50" src="https://user-images.githubusercontent.com/25181517/190229463-87fa862f-ccf0-48da-8023-940d287df610.png" alt="Lombok" title="Lombok"/></a></code>
-	<code><a href="https://www.mysql.com/" target="_blank"><img width="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/></a></code>
-  	<code><a href="https://flywaydb.org/" target="_blank"><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Flyway_logo.svg" alt="Flyway" title="Flyway"/></code>
-	<code><a href="https://insomnia.rest/download" target="_blank"><img width="50" src="https://i.ibb.co/s9RzC1t/insomnia-seeklogo.png" alt="Insomnia"  title="Insomnia"/></code>
-</div>
+3) auxiliares<br>
+<a>https://trello.com/b/yGQuuyVV/api-voll-med</a><br>
+<a href="https://www.figma.com/file/vgn35i1ErivIN8LJYEqxGZ/Untitled?node-id=0-223&t=YNrx4H2YyxEWXQFb-0">modelo en FiGMA</a>
+
+
