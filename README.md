@@ -1,4 +1,4 @@
-# proyecto: API Clínica Voll
+# Proyecto: API Clínica Voll
 
 Durante mi formación en Alura pude desarrollar una API desde Cero utilizando Java y Spring destinada a una clínica médica, haciendo un resumen de todo los conocimientos que adquirí durante la duración de este bootcamp:
 
